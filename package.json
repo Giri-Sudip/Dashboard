@@ -7,6 +7,7 @@
     "@syncfusion/ej2-documenteditor": "^20.1.61",
     "@syncfusion/ej2-dropdowns": "^20.1.61",
     "@syncfusion/ej2-react-calendars": "^20.1.58",
+    "@syncfusion/ej2-react-dropdowns": "^20.1.61",
     "@syncfusion/ej2-react-grids": "^20.1.61",
     "@syncfusion/ej2-react-inputs": "^20.1.61",
     "@syncfusion/ej2-react-kanban": "^20.1.60",
